@@ -24,3 +24,6 @@ out/
 
 ### Local MCP config ###
 .mcp.json
+
+### Private notes ###
+README.private.md
